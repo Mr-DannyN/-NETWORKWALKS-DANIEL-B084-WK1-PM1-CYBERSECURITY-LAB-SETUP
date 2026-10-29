@@ -36,7 +36,7 @@ I created a new virtual machine in VirtualBox and installed Kali Linux, a system
    - DNS servers: 10.0.0.1
 4. Saved the settings and reconnected.
 
-![Manual IPv4 configuration](screenshots/03-manual-ip-config.png)
+![Manual IPv4 configuration](screenshots/03-manual-ip-config.jpeg.png)
 
 **Result:** The VM connected successfully. A static IP gave Kali a valid address, the gateway gave it a route to the internet, and the DNS server allowed it to resolve website names.
 
